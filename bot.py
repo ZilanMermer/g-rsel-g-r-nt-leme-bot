@@ -53,4 +53,4 @@ async def check(ctx):
         await ctx.send("görsel göndermeyi unuttunuz,lütfen gönderin!")
 
 
-bot.run("MTM4MzE1OTMxODQzNzY5NTY0OA.GmAkot.aaVMpT7HHKfGrFo8ccvj4h3-vh1qyQuWxN4CT4")
+bot.run()
